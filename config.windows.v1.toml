@@ -17,7 +17,7 @@ default = true
 [[packages]]
 name = "yuzu Early Access"
 description = "Preview release with the newest features for Free by 128BitBay!"
-default = true
+default = false
     [packages.source]
     name = "github"
     match = "^yuzu-early-access-EA[0-9]*.zip$"
